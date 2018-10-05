@@ -1,7 +1,7 @@
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '';
+  return '27f9cb532496ddc9e7d2e607ad9eb51c2e5618f6';
 }
 
 function forkRepo() {
@@ -24,6 +24,7 @@ function showResults(json) {
 
 function createIssue() {
   //use this function to create an issue based on the values input in index.html
+
 }
 
 function getIssues() {
